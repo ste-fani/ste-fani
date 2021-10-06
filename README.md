@@ -10,7 +10,7 @@ I'm from Brazil and I'm living in Salvador-BA.
 
 
 
-# ⚡Technologies⚡
+## ⚡Technologies⚡
 
 These are some of the technologies and tools that I've been studying and I like to work:
 
@@ -26,8 +26,12 @@ These are some of the technologies and tools that I've been studying and I like 
 <code><img height="20" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></code>
 
 
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ste-fani&show_icons=true&theme=buefy&include_all_commits=true&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ste-fani&layout=compact&theme=buefy&hide_border=true" />
+</a>
 
 
 - Thanks for visiting. ❤️
