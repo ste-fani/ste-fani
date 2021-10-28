@@ -27,10 +27,10 @@ These are some of the technologies and tools that I've been studying and I like 
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ste-fani&show_icons=true&theme=buefy&include_all_commits=true&hide_border=true" width="500"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ste-fani&show_icons=true&theme=buefy&include_all_commits=true&hide_border=true"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ste-fani&layout=compact&theme=buefy&hide_border=true" width="400"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ste-fani&layout=compact&theme=buefy&hide_border=true"/>
 </a>
 
 
